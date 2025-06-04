@@ -1,6 +1,4 @@
 # FastLogger
 Ultra fast logger written in C++20 using Template Meta Programming. 
 
-Caution: This logger hasn't been used in the production code, only tested 
-by logging few patterns and types. If you want to use this, you might need fix 
-few things, but idea can be used to achieve really low latency.
+Note: This logger has not been used in production. If you intend to use it, you may need to adapt certain parts. However, the core idea demonstrates a viable approach for achieving ultra-low latency logging.
